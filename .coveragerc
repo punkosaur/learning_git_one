@@ -1,0 +1,6 @@
+[run]
+source = coockiecutterapp_one
+omit = 
+    tests/*
+    autoapp.py
+
