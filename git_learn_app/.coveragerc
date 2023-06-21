@@ -1,0 +1,6 @@
+[run]
+source = git_learn_app
+omit = 
+    tests/*
+    autoapp.py
+
